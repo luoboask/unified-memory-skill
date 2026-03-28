@@ -11,9 +11,23 @@
 
 ## 安装
 
+### 国内用户（推荐，快 50 倍）
+
+```bash
+git clone https://gitee.com/luoboask/unified-memory-skill.git
+cd unified-memory-skill
+```
+
+### 海外用户
+
 ```bash
 git clone https://github.com/luoboask/unified-memory-skill.git
+cd unified-memory-skill
 ```
+
+**💡 访问速度：**
+- 🇨🇳 国内用户：使用 Gitee 源，速度快 50 倍
+- 🌏 海外用户：使用 GitHub 源
 
 ## 使用
 
