@@ -1,0 +1,5 @@
+# 运行时数据
+memory/*.md
+data/
+__pycache__/
+*.pyc
